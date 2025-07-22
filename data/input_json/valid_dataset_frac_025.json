@@ -1,0 +1,2002 @@
+[
+  {
+    "query": "How about people who aren’t clients but respond to surveys?",
+    "response": "The bank processes personal data of respondents who are not its clients."
+  },
+  {
+    "query": "what’s alfa-bank doing to honor its financial obligations?",
+    "response": "Alfa-Bank is actively working with regulators and foreign financial institutions to find a way to fulfill its outstanding payment obligations under the Loans and LPNs."
+  },
+  {
+    "query": "Do stateless residents need additional documents?",
+    "response": "No, the sole requirement is a valid residence permit in the Russian Federation."
+  },
+  {
+    "query": "Can I pay customs fees with a Bank Card?",
+    "response": "Yes, you can use Customs Cards to pay customs duties and charges."
+  },
+  {
+    "query": "online payments with old expiration date",
+    "response": "For online transactions, continue using the expiration date you initially received, as it has not changed."
+  },
+  {
+    "query": "What can I do with my credit card?",
+    "response": "With your credit card, you can pay for goods and services (including online and via QR code), withdraw cash from ATMs, make transfers, and repay credit cards from other banks."
+  },
+  {
+    "query": "Where is the Alfa-Bank headquarters located?",
+    "response": "Alfa-Bank headquarters are located at 27 Kalanchevskaya str., Moscow, Russia, 107078."
+  },
+  {
+    "query": "Android app download options",
+    "response": "You can download the Android app from our website or from Huawei AppGallery, Xiaomi Market, Galaxy Store, GetApps, RuMarket, Rustore, or NashStore."
+  },
+  {
+    "query": "Legal consequences late payment?",
+    "response": "Failing to make payments on time or failing to fulfill obligations properly could result in the bank taking legal action against you."
+  },
+  {
+    "query": "named cards free or charge?",
+    "response": "Named cards are free to obtain, just like unnamed cards. Both have no fees for transfers, payments, or cashback."
+  },
+  {
+    "query": "No OFSI license",
+    "response": "Alfa-Bank has not received the Specific Licence from OFSI, which is required to proceed with interest payments under the Loans."
+  },
+  {
+    "query": "Commercial use allowed?",
+    "response": "No, the Mobile Bank service is strictly for non-commercial use by registered users who have accepted the Agreement."
+  },
+  {
+    "query": "I use Maximum Ultra. Will I have fees for quasi-cash?",
+    "response": "No, the Maximum Ultra package excludes you from quasi-cash fees under the listed conditions."
+  },
+  {
+    "query": "what time are payments processed from my loan account?",
+    "response": "Payments are debited from your account by 11:00 PM Moscow time on the due date."
+  },
+  {
+    "query": "One-Time Password not received",
+    "response": "If you didn’t get the One-Time Password via SMS or Push, ensure your Mobile Device is registered correctly or request a resend through Mobile Bank."
+  },
+  {
+    "query": "alfa private mobile app features",
+    "response": "The mobile app for Alfa Private includes unique features tailored to private banking clients for convenient account management."
+  },
+  {
+    "query": "max transaction limit for regular card cashback",
+    "response": "The maximum transaction amount eligible for cashback with a regular Alfa-Card is 100,000 rubles."
+  },
+  {
+    "query": "What are structured deposits at Alfa Bank?",
+    "response": "Structured deposits are innovative hybrid products offered by Alfa Bank allowing a higher interest rate than classic deposits."
+  },
+  {
+    "query": "i don’t have internet",
+    "response": "You cannot use the mobile banking app without internet access. A stable connection is needed for the service."
+  },
+  {
+    "query": "Tools for handling accounts receivable?",
+    "response": "The register of receivables is a convenient tool designed to help minimize accounts receivable by tracking and managing them efficiently."
+  },
+  {
+    "query": "Accession application is required?",
+    "response": "Yes, the Application for Accession is part of the required documents."
+  },
+  {
+    "query": "i need to know about currency conversion when withdrawing the deposit",
+    "response": "When withdrawing, the deposit can be returned to an alternative currency at the conversion rate specified in the agreement, with no commission applied."
+  },
+  {
+    "query": "What happens after my loan is fully repaid?",
+    "response": "After full repayment, the loan agreement will automatically close, and we’ll send you an SMS confirmation."
+  },
+  {
+    "query": "add alfa-online to home screen",
+    "response": "To add Alfa-Online to your home screen, open it in Safari, tap Share at the bottom of the screen, select “Add to Home Screen,” and follow the prompts."
+  },
+  {
+    "query": "New cash loan now?",
+    "response": "If your last cash loan has been issued, you can apply for a new one right away. There are no limits on how many times you can borrow."
+  },
+  {
+    "query": "Need urgent",
+    "response": "Certificates are sent instantly—request them via app or online."
+  },
+  {
+    "query": "How to get a balance",
+    "response": "To get a certificate of available balance, use the mobile app or Alfa-Online."
+  },
+  {
+    "query": "What documentation is needed for payment schedule planning?",
+    "response": "You’ll need to specify whether payments are annuity, differentiated, seasonal, or include a grace period."
+  },
+  {
+    "query": "What does Alfa-Bank’s structured finance factory produce?",
+    "response": "The structured finance factory at Alfa-Bank produces a wide array of structured products, including structured debt and notes."
+  },
+  {
+    "query": "How to confirm the grace period is active?",
+    "response": "Check the mobile app or Alfa-Online → Credit Card Account → Interest-free Period. If no end date is shown, the debt is settled, and a new grace period starts with the next qualifying transaction."
+  },
+  {
+    "query": "sign docs but not sure to pay?",
+    "response": "You must not sign the loan agreement or any other bank documents unless you are certain you can meet the required payments and obligations."
+  },
+  {
+    "query": "Are there equity trading options here?",
+    "response": "Yes, Alfa-Bank offers cash equities trading."
+  },
+  {
+    "query": "Use debit card to receive salary?",
+    "response": "Yes, your debit card can be used to receive salary, pension, or benefits."
+  },
+  {
+    "query": "How does Kind subscription help?",
+    "response": "Each payment contributes 1 Rouble to support children who need help."
+  },
+  {
+    "query": "alfa-bank listed in any international banking councils?",
+    "response": "Yes, Alfa-Bank is represented as a Plenipotentiary Bank under Moscow’s Mayor by the Council of Representatives."
+  },
+  {
+    "query": "Need certificate for my card?",
+    "response": "To get a certificate, open the Alfa-Bank app, go to the Card account section, and select Certificates and statements."
+  },
+  {
+    "query": "cny payment setup",
+    "response": "To set up CNY payments, use BANK OF CHINA (RUSSIA) at Pr-t Mira 72, Moscow (SWIFT: BKCHRUMM, Account: 30109156600000000069)."
+  },
+  {
+    "query": "Contact number Alfa-Bank Russia",
+    "response": "The contact number for Alfa-Bank in Russia is +7 (495) 620-91-91."
+  },
+  {
+    "query": "iOS 12 works with Alfa-Bank app?",
+    "response": "Yes, the app is compatible with iOS version 9 or higher, so iOS 12 is supported."
+  },
+  {
+    "query": "Equity trade timing",
+    "response": "Equity trades can only be executed during exchange hours, which are Monday-Friday from 10:00 to 18:00."
+  },
+  {
+    "query": "Does Alfa-Bank share my info with others?",
+    "response": "No, confidential data about your accounts, deposits, and operations is not disclosed to third parties unless permitted by law."
+  },
+  {
+    "query": "Overdue loan affecting my cashback?",
+    "response": "If you have overdue credit debt, cashback will go to your bonus account but cannot be spent until the debt is repaid."
+  },
+  {
+    "query": "Bonds and notes",
+    "response": "Bonds and structured notes are among our investment offerings for corporate clients."
+  },
+  {
+    "query": "Will my data be deleted if I withdraw consent?",
+    "response": "If you withdraw consent and we no longer have legal grounds for processing, your data will be destroyed irreversibly within the statutory period, unless otherwise required by law."
+  },
+  {
+    "query": "Can I use the relaxation zones?",
+    "response": "Yes, soft relaxation zones in offices are open for employees to unwind and recharge."
+  },
+  {
+    "query": "What happens after I sign the agreement?",
+    "response": "After signing, you’ll receive a free debit card (if applicable), and the loan amount will be credited to your account. You can then withdraw cash, transfer money, or make purchases."
+  },
+  {
+    "query": "How does the income work in an Outperformance certificate?",
+    "response": "The income in an Outperformance certificate is structured as participation with leverage."
+  },
+  {
+    "query": "What does Alfa-Bank consider a major business area?",
+    "response": "The retail business is an important area of Alfa-Bank’s activity."
+  },
+  {
+    "query": "Indexed deposit for pension fund",
+    "response": "Indexed deposits are suitable for pension funds looking to invest in stock, commodity, or currency markets with reduced risk."
+  },
+  {
+    "query": "Need to invest directly in shares?",
+    "response": "Alfa-Bank allows cash equities trading for direct stock investments."
+  },
+  {
+    "query": "can i get interest rate swaps for my business",
+    "response": "Yes, Alfa-Bank offers interest-rate swaps as one of its derivative products."
+  },
+  {
+    "query": "cashback not showing up after purchase",
+    "response": "Check if you (1) clicked the button in the partner’s offer, (2) avoided returning/canceling the purchase, (3) cleared your cart before adding items again, and (4) met all offer conditions like location or minimum spending."
+  },
+  {
+    "query": "Servicing debt under Loans – what law",
+    "response": "Servicing debt under Loans is governed by Executive Orders of the Russian President, decisions from the Bank of Russia Board of Directors, and Bank of Russia clarifications."
+  },
+  {
+    "query": "who gave alfa-bank its credit rating?",
+    "response": "Expert RA affirmed Alfa-Bank’s rating at ruAA+ with a Stable outlook."
+  },
+  {
+    "query": "How often is cashback added?",
+    "response": "Cashback is credited on the 10th of each month. There are no limits from our side, but partner-imposed caps may apply."
+  },
+  {
+    "query": "Where to find Alfa-Bank ESG policies?",
+    "response": "You can read Alfa-Bank’s ESG policies in our official social and ESG reports."
+  },
+  {
+    "query": "Early repayment for cash loan",
+    "response": "To pay more than your monthly payment, you must submit a request for full or partial early repayment."
+  },
+  {
+    "query": "Loan application is my offer",
+    "response": "Correct, your loan application is considered an offer, and the bank’s acceptance creates the loan agreement."
+  },
+  {
+    "query": "What types of leasing products does Alfa-Bank offer for corporate clients?",
+    "response": "Alfa-Bank offers leasing for vehicles, real estate, leaseback, and refinancing of existing leasing portfolios for large and medium corporate clients."
+  },
+  {
+    "query": "Is the Electronic Log legally valid in court?",
+    "response": "Yes, the Electronic Log is stored by Alfa-Bank and can be used as evidence in the resolution of disputes, including in court."
+  },
+  {
+    "query": "set pin for card activation",
+    "response": "To set your PIN, open the Alfa-Bank app or Alfa-Online, go to \"All my products → Card account,\" and follow the prompts to set your PIN code."
+  },
+  {
+    "query": "Physical and digital card",
+    "response": "When ordering, you can choose to receive only a digital card or request a physical card as well. If you have an existing digital card and want a physical one, you must order a new card."
+  },
+  {
+    "query": "How to access partner discounts?",
+    "response": "Employees can use partner exemptions and special offers directly through the bank's partnership network."
+  },
+  {
+    "query": "Why was my incoming payment limited?",
+    "response": "There are no limitations on processing incoming RUB payments at Alfa-Bank."
+  },
+  {
+    "query": "Company age requirements for leasing?",
+    "response": "The company must have been operational for at least 2 years."
+  },
+  {
+    "query": "Can you advise on selling a business unit?",
+    "response": "Yes, Alfa-Bank’s advisory services include guidance for divestures, such as selling a business unit or part of a company."
+  },
+  {
+    "query": "Is there an option to fix the additional interest rate ahead of time?",
+    "response": "Yes, early fixation of the additional interest rate is available."
+  },
+  {
+    "query": "can i get expert opinions on foreign exchange?",
+    "response": "Yes, Alfa-Bank delivers expert opinions on foreign exchange, commodities, credit, and interest rates."
+  },
+  {
+    "query": "What currency pairs include Chinese yuan?",
+    "response": "Alfa-Bank supports hedging for the CNY/RUB currency pair among other foreign currencies."
+  },
+  {
+    "query": "Register Mobile Bank account",
+    "response": "Supply your Phone Number, last name, first name, patronymic, and date of birth to register."
+  },
+  {
+    "query": "competitive rates for repo financing",
+    "response": "Alfa Bank offers financing for REPO deals at competitive interest rates to institutional and private investors."
+  },
+  {
+    "query": "How can I access Alfa-Online without downloading the app?",
+    "response": "You can use Alfa-Online by accessing it as a mobile banking site on your smartphone. It works without needing to download the app."
+  },
+  {
+    "query": "Data security compliance with law?",
+    "response": "Our security measures strictly comply with Russian legislation regarding personal data protection, including organizational and technical safeguards."
+  },
+  {
+    "query": "No citizenship but living in Russia",
+    "response": "You can legally reside permanently in Russia by obtaining a residence permit."
+  },
+  {
+    "query": "What is Alfa Bond Issuance plc’s role in the LPNs?",
+    "response": "Alfa Bond Issuance plc is responsible for issuing the Loan Participation Notes, but the programme has limited recourse to them."
+  },
+  {
+    "query": "What is the cost for replacing my card?",
+    "response": "The cost to reissue your card is 290 ₽. However, if you have the Premium tariff, the service is free."
+  },
+  {
+    "query": "Which countries accept my Mir card via Mir Pay?",
+    "response": "Mir Pay works in Armenia, Kyrgyzstan, and Kazakhstan at banks that already accept physical Mir cards."
+  },
+  {
+    "query": "I lost the activation instructions. Help activate my card",
+    "response": "Go to All my products → Card account → Set a PIN code in the app or Alfa-Online to activate your card."
+  },
+  {
+    "query": "my data was transferred abroad",
+    "response": "We will inform you whether your data has been or may be transferred to other countries."
+  },
+  {
+    "query": "Need to report a privacy policy concern",
+    "response": "Use the feedback form available on the bank’s website and select \"Privacy Policy\" as the subject to raise your concern."
+  },
+  {
+    "query": "can i pay for a taxi automatically with my credit card?",
+    "response": "Yes, link your credit card to taxi services via the mobile app for automatic payments."
+  },
+  {
+    "query": "Can I print it",
+    "response": "Yes, the PDF certificate with a signature and blue stamp can be printed for your records."
+  },
+  {
+    "query": "Can I print my loan statement directly from the app?",
+    "response": "Yes, after downloading the PDF statement from the app, you can print it immediately."
+  },
+  {
+    "query": "What if my needs are unique",
+    "response": "Alfa-Bank focuses on customer demands to address a range of needs in fixed income."
+  },
+  {
+    "query": "How to withdraw the loan money?",
+    "response": "Withdraw cash from the free debit card at any ATM, or transfer the funds via the Alfa-Bank mobile app."
+  },
+  {
+    "query": "my balance is cleared. when does the next grace period start?",
+    "response": "The next grace period starts from the date of your next qualifying transaction after repayment."
+  },
+  {
+    "query": "Fast account opening",
+    "response": "You can open an account with a small set of documents needed."
+  },
+  {
+    "query": "what’s required for 280k loan with no alfa-bank card?",
+    "response": "Only a Russian passport is needed. No income documents are required for loans up to 300,000 ₽."
+  },
+  {
+    "query": "Insurance for card theft",
+    "response": "Card Protection covers theft and unauthorized cash withdrawals after ATM use or loss. Pricing varies based on coverage—see the Showcase in the app."
+  },
+  {
+    "query": "Premium Card cashback limit per month",
+    "response": "The maximum cashback per month for the Alfa Premium Card under the Premium tariff is 15,000 Alfa points."
+  },
+  {
+    "query": "Is there free cashier withdrawal?",
+    "response": "No, cashier withdrawals always incur a fee. Fee-free cash can only be withdrawn via ATMs."
+  },
+  {
+    "query": "Do you monitor security measures for personal data?",
+    "response": "Yes, we continuously monitor the security measures in place for personal data protection to ensure their effectiveness and compliance."
+  },
+  {
+    "query": "products for asset management with derivatives",
+    "response": "Alfa-Bank’s Hybrid Products pair fixed income instruments with derivative strategies for asset management purposes."
+  },
+  {
+    "query": "cashback rounding rules",
+    "response": "Cashback calculations round the purchase amount down to the nearest hundred rubles. A 2,340 ruble payment would count as 2,300 rubles for cashback purposes."
+  },
+  {
+    "query": "what happens if i don’t pay overdraft till day end",
+    "response": "Unpaid balances will be converted into an overnight loan at a benchmark-based rate."
+  },
+  {
+    "query": "Can I apply for insurance without visiting a branch?",
+    "response": "Yes, you can apply for insurance directly in the app."
+  },
+  {
+    "query": "I lost my activation instructions",
+    "response": "Re-activate your debit card by opening the Alfa-Bank app or Alfa-Online and selecting \"All my products\" → \"Card account\" → \"Set PIN code\"."
+  },
+  {
+    "query": "Leasing application rejected due to litigation?",
+    "response": "Applications cannot be processed if there are ongoing litigations at the time of application."
+  },
+  {
+    "query": "How do I restrict processing of my data?",
+    "response": "You can request restriction on data processing for promotional purposes or in other specific scenarios."
+  },
+  {
+    "query": "What defines employee behavior at Alfa-Bank?",
+    "response": "Employees follow a Code of Ethics that establishes core values and work principles."
+  },
+  {
+    "query": "no fee for small purchases?",
+    "response": "Yes, you won’t be charged the quasi-cash fee for purchases under 500 ₽."
+  },
+  {
+    "query": "Can I use the full remaining limit at once?",
+    "response": "You can use up to the maximum remaining limit (15,000 rubles for unverified users) simultaneously for payments."
+  },
+  {
+    "query": "My card is lost. How to block it?",
+    "response": "If your card is lost, you can block and reissue it via the Alfa-Bank app or Alfa-Online."
+  },
+  {
+    "query": "How much is charged for late payments?",
+    "response": "For missed loan payments, a daily fee of 0.1% is charged on the overdue amount."
+  },
+  {
+    "query": "Verification during Mobile Bank usage",
+    "response": "The Bank identifies the User during interactions to enable operations under the Agreement via Mobile Bank."
+  },
+  {
+    "query": "Affirmed rating info",
+    "response": "On April 9, 2025, Expert RA affirmed Alfa-Bank’s national-scale credit rating at ruAA+ with a Stable outlook."
+  },
+  {
+    "query": "I need the application form for deposit products",
+    "response": "The Application for accession is required along with the Agreement and Risk declaration."
+  },
+  {
+    "query": "How to check cash loan app status?",
+    "response": "The loan decision is notified via SMS after a maximum of 5 business days."
+  },
+  {
+    "query": "Why is assessing my budget important before a loan?",
+    "response": "To ensure you can realistically allocate funds for all required payments under the loan agreement, avoiding penalties and financial strain."
+  },
+  {
+    "query": "Does the remaining limit reset every month?",
+    "response": "The remaining limit adjusts dynamically based on your previous expenses and does not reset monthly."
+  },
+  {
+    "query": "If I repay through the app, when will the payment count?",
+    "response": "Payments made via the app will be processed by 11:00 PM Moscow time on the due date."
+  },
+  {
+    "query": "What role does Bank of Russia have in debt servicing?",
+    "response": "The Bank of Russia contributes through its Board Decisions and official clarifications, which are part of the legal framework governing debt under Loans and LPNs."
+  },
+  {
+    "query": "Bond placements support",
+    "response": "Yes, we finance clients at initial bond placements."
+  },
+  {
+    "query": "Can’t add card to Samsung Pay",
+    "response": "Ensure your device is Android-compatible with Mir Pay or Samsung Pay. Apple devices are not supported."
+  },
+  {
+    "query": "overdraft from fee. how?",
+    "response": "If we charge a fee based on the tariff (e.g., for services) and your account balance covers the initial payment but not the fee, an overdraft occurs."
+  },
+  {
+    "query": "Mir card availability",
+    "response": "Alfa-Bank issues Mir cards. To confirm availability for your account, use the mobile app, Alfa-Online, or visit the bank’s website."
+  },
+  {
+    "query": "How to ensure compliance for offshore use?",
+    "response": "Structured products offered by Alfa-Bank are for Russian compliance; offshore use requires separate legal arrangements."
+  },
+  {
+    "query": "iPhone app installation help",
+    "response": "Request a bank employee to install the app for you at home, visit any branch, or use the website form to arrange installation."
+  },
+  {
+    "query": "no fee atm list",
+    "response": "Partner banks for fee-free ATM reloads include B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, Russian Agricultural Bank, and Ural Bank for Reconstruction and Development. Alfa-Bank ATMs are also free."
+  },
+  {
+    "query": "minimum asset value for real estate leasing",
+    "response": "The leased real estate must be valued at a minimum of RUR50 million."
+  },
+  {
+    "query": "Get PDF document",
+    "response": "The certificate in PDF format with a signature and blue stamp will be sent to your email after you request it via the mobile app or Alfa-Online."
+  },
+  {
+    "query": "What’s the purpose of the Electronic Log?",
+    "response": "The purpose of the Electronic Log is to maintain records of checks and actions taken under the Agreement and to serve as evidence in disputes."
+  },
+  {
+    "query": "How does the bank help the community?",
+    "response": "According to our strategy, we help society by adhering to effective ESG management principles, which involve direct efforts to support and benefit the community."
+  },
+  {
+    "query": "Can I get EUR from overseas ATMs?",
+    "response": "No, you cannot withdraw euros directly from third-party ATMs abroad. You must first withdraw the local currency and exchange it for euros at a currency exchange office."
+  },
+  {
+    "query": "Close credit card process",
+    "response": "Send a request through the app Chat or call the Call Center to close your credit card. The process is instant."
+  },
+  {
+    "query": "How long does freezing take?",
+    "response": "Freezing is instant when initiated via the \"All my products\" → \"Card\" → \"Freeze card\" path in the app."
+  },
+  {
+    "query": "What online banking options are available for corporate clients?",
+    "response": "Corporate clients can use Alfa Business Online for online account access from any PC and Alfa Business Mobile for managing accounts from a smartphone or tablet."
+  },
+  {
+    "query": "Delivery address for card wrong",
+    "response": "Correct the delivery address in the app, Alfa-Online, or by calling +7 495 788 88 78 (Moscow) or 8 800 200 00 00 (other regions)."
+  },
+  {
+    "query": "Margin trading forex forex",
+    "response": "Margin trading allows forex trading with leveraged positions."
+  },
+  {
+    "query": "difference between electronic and book payment cutoffs",
+    "response": "Electronic payments cut off at 5pm Moscow time; book transfers cut off at 6pm on weekends/holidays."
+  },
+  {
+    "query": "Can I close my card through the app?",
+    "response": "Yes, you can close your card immediately by sending a request through the app Chat."
+  },
+  {
+    "query": "Biodegradable materials for cards?",
+    "response": "Yes, eco-envelopes for plastic cards use certified biodegradable materials."
+  },
+  {
+    "query": "bond forex finance",
+    "response": "Yes, we finance initial bond placements in major currencies."
+  },
+  {
+    "query": "SBP for any Russian bank?",
+    "response": "Yes, SBP transfers can be sent to cards of any Russian bank."
+  },
+  {
+    "query": "who is helping alfa-bank with debt repayment?",
+    "response": "Alfa-Bank is collaborating with regulatory bodies and foreign financial institutions to find appropriate ways to fulfill its payment obligations under the Loans and LPNs."
+  },
+  {
+    "query": "How do you ensure client satisfaction with fixed-income products?",
+    "response": "By focusing on Customer demands."
+  },
+  {
+    "query": "Margin trading available for forex?",
+    "response": "Margin trading is available for a wide range of underlying assets, including forex."
+  },
+  {
+    "query": "Do purchases abroad earn miles?",
+    "response": "Yes, miles are credited for purchases made abroad using your Alfa-Bank Aeroflot card."
+  },
+  {
+    "query": "Coffee points inside office?",
+    "response": "Alfa-Bank offices include coffee points for employees' convenience."
+  },
+  {
+    "query": "office address needed",
+    "response": "The office address for Alfa-Bank is 27 Kalanchevskaya str., Moscow, Russia, 107078."
+  },
+  {
+    "query": "Transaction approved 10 days later, overdraft occurs?",
+    "response": "Yes, if the transaction is confirmed more than 9 days after being held and there’s insufficient funds in your account at that time, an overdraft will occur."
+  },
+  {
+    "query": "Pay via qr code with credit card",
+    "response": "Yes, you can pay for items using a QR code in stores with your credit card."
+  },
+  {
+    "query": "do you process biometric data for identity verification?",
+    "response": "Yes, biometric data such as facial or voice recognition may be used for identity verification purposes as part of our security measures."
+  },
+  {
+    "query": "data security compliance with law?",
+    "response": "Our security measures strictly comply with Russian legislation regarding personal data protection, including organizational and technical safeguards."
+  },
+  {
+    "query": "competitive rates for repo financing",
+    "response": "Alfa Bank offers financing for REPO deals at competitive interest rates to institutional and private investors."
+  },
+  {
+    "query": "applied to ofsi and ofac for payment licenses?",
+    "response": "Yes, Alfa-Bank applied to OFSI and OFAC to obtain licenses for processing payments related to Loans and LPNs."
+  },
+  {
+    "query": "Why is verification required for Mobile Bank?",
+    "response": "To identify the User during interactions with the Bank via Mobile Bank for operations under the Agreement."
+  },
+  {
+    "query": "no minimum payment threshold",
+    "response": "The minimum payment has a fixed threshold of ₽300. If your calculated percentage is below 300, you’ll need to pay the full amount instead."
+  },
+  {
+    "query": "Why choose Alfa-Bank for payments?",
+    "response": "The bank’s widespread correspondent network ensures real-time cross-regional payments."
+  },
+  {
+    "query": "Bond fx finance",
+    "response": "Yes, we finance clients at initial bond placements in global currencies."
+  },
+  {
+    "query": "How many banks are in the partner bank list?",
+    "response": "There are seven partner banks: B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, Russian Agricultural Bank, and Ural Bank for Reconstruction and Development."
+  },
+  {
+    "query": "no fee for family card",
+    "response": "The Debit Alfa-Card is free to issue and maintain, with no fees for families."
+  },
+  {
+    "query": "Can I use card at Kyrgyzstan banks",
+    "response": "Yes, you can use your card in all Kyrgyzstan banks participating in the ELCART payment system."
+  },
+  {
+    "query": "What currencies are eligible for interest accrual?",
+    "response": "Interest is accrued on balances in RUB, USD, and EUR."
+  },
+  {
+    "query": "CNY SWIFT/BIC code",
+    "response": "The SWIFT code for the CNY is BKCHRUMM."
+  },
+  {
+    "query": "Can I pay for things online with my debit card?",
+    "response": "Yes, you can pay for online purchases with your debit card. You can also link it to services like taxi or streaming platforms."
+  },
+  {
+    "query": "Certifcates for my card",
+    "response": "To get a certificate for your debit card, use the mobile app or Alfa-Online: Card account → Certificates and statements. The PDF file will be sent to your email and saved in your online banking area."
+  },
+  {
+    "query": "Need existing account to order credit card via app?",
+    "response": "Yes, ordering a credit card through the app or Alfa-Online requires that you already have an existing account with Alfa-Bank."
+  },
+  {
+    "query": "how to ensure my online payments work?",
+    "response": "Link your card to the service once, and it will process payments automatically without further input."
+  },
+  {
+    "query": "Can I see the grace period status on my app?",
+    "response": "Yes, check the mobile app or Alfa-Online under \"Credit card account → Interest-free period\" to view the grace period status."
+  },
+  {
+    "query": "acquiring vs e-commerce?",
+    "response": "Both Acquiring and E-commerce allow online payments without modifying your website, but E-commerce specifically supports e-commerce operations."
+  },
+  {
+    "query": "margin trading forex fx",
+    "response": "Margin trading allows forex trading with leveraged access."
+  },
+  {
+    "query": "can i get a bespoke structured finance solution?",
+    "response": "Yes, Alfa-Bank designs individual solutions after reviewing your specific financial context."
+  },
+  {
+    "query": "Explain how factoring helps with liquidity.",
+    "response": "Factoring supports liquidity management by providing deferred payments, which are an important tool for managing cash flow in business operations."
+  },
+  {
+    "query": "I need to get cash in Kyrgyzstan. Which banks support that?",
+    "response": "You can withdraw cash in Kyrgyzstan at all banks participating in the ELCART payment system."
+  },
+  {
+    "query": "What’s included in market making support?",
+    "response": "Market making support involves providing liquidity in your securities post-issuance to ensure stable trading conditions."
+  },
+  {
+    "query": "Is there a cost to close my debit card?",
+    "response": "No, closing your debit card is free of charge. If there was a service fee before closure, it will not be applied afterward."
+  },
+  {
+    "query": "Address for Alfa-Bank office in Moscow",
+    "response": "The Moscow office is located at 27 Kalanchevskaya str., Moscow, Russia, 107078."
+  },
+  {
+    "query": "Application approval time",
+    "response": "Application approval is completed within 4 days."
+  },
+  {
+    "query": "What currency are expense operations conducted in?",
+    "response": "All expense operations are conducted in Russian rubles."
+  },
+  {
+    "query": "How is \"processing\" different from \"destruction\"?",
+    "response": "Processing includes actions like collection or modification of personal data, whereas destruction permanently makes data unrecoverable."
+  },
+  {
+    "query": "Quasi-cash transaction example",
+    "response": "Examples of quasi-cash transactions include buying traveler’s checks, sending money to e-wallets, purchasing cryptocurrency, and paying for casino games."
+  },
+  {
+    "query": "Are there instances where you can process data without consent?",
+    "response": "Yes, processing is allowed without consent when required by law or to fulfill legal obligations, such as submitting reports to regulators."
+  },
+  {
+    "query": "Did Alfa-Bank request licenses from any authorities?",
+    "response": "Yes, Alfa-Bank applied to OFSI and OFAC for licenses to process payments under Loans and LPNs."
+  },
+  {
+    "query": "how to assess my ability to repay a loan",
+    "response": "Weigh the pros and cons of the loan, and objectively evaluate your capacity to repay it on time."
+  },
+  {
+    "query": "my payment went at 5:15 pm. is it processed same day",
+    "response": "If it’s an electronic payment, submitting at 5:15pm will not qualify for same-day processing."
+  },
+  {
+    "query": "Can I finance a bond at launch?",
+    "response": "Yes, we finance clients at initial bond placements."
+  },
+  {
+    "query": "card closure steps",
+    "response": "To close your card, go to All my products → Card → Close card in the mobile app or Alfa-Online. The process takes effect immediately."
+  },
+  {
+    "query": "how does alfa-bank help the environment?",
+    "response": "Alfa-Bank helps the environment by reducing paper use, introducing biodegradable materials like FSC-certified eco-envelopes with soy ink, and recycling plastic cards into merch."
+  },
+  {
+    "query": "What is a cash loan?",
+    "response": "A cash loan is an unsecured loan for any purpose."
+  },
+  {
+    "query": "NFC requires internet?",
+    "response": "NFC operates independently of internet connectivity, relying on direct short-range communication between devices for data exchange."
+  },
+  {
+    "query": "Do you have a mobile app for private banking clients?",
+    "response": "Yes, private banking clients get access to a special mobile bank with unique features as part of their services."
+  },
+  {
+    "query": "Where to see credit card costs",
+    "response": "You can view the fee in the mobile app or Alfa-Online: Credit card → Tariffs."
+  },
+  {
+    "query": "how does alfa-bank protect my personal data?",
+    "response": "We implement legal, organizational, and technical measures to ensure compliance with Russian law, conduct internal audits, and monitor processes to prevent violations of personal data protection regulations."
+  },
+  {
+    "query": "Can I skip the Risk declaration?",
+    "response": "No, the Risk Declaration is mandatory along with the Agreement and Application for Accession for investment structured products."
+  },
+  {
+    "query": "What is available",
+    "response": "You can obtain a certificate of available balance, credit presence, account statement, or credit statement."
+  },
+  {
+    "query": "Can I use my card for taxis?",
+    "response": "Yes, you can link your card to ride-hailing apps like taxis. Once linked, payments will go through automatically."
+  },
+  {
+    "query": "Bond fx support options",
+    "response": "Initial bond placements can be financed in major currencies."
+  },
+  {
+    "query": "Does Alfa-Bank support primary market participation for equities?",
+    "response": "Yes, Alfa-Bank gives access to equity primary markets."
+  },
+  {
+    "query": "my card was stolen",
+    "response": "If your card was stolen, block it in the mobile app by accessing All my products → Card → Freeze card."
+  },
+  {
+    "query": "Where do I set my card PIN?",
+    "response": "To set your PIN code, open the Alfa-Bank app or Alfa-Online, go to \"All my products → Card account,\" and follow the instructions to set your PIN."
+  },
+  {
+    "query": "Can I get a Mir card from Alfa-Bank?",
+    "response": "Yes, Alfa-Bank issues Mir cards. View your available cards via the mobile app, Alfa-Online, or the bank’s website."
+  },
+  {
+    "query": "BYN swift code",
+    "response": "The SWIFT code for Belarussian Ruble (BYN) is ALFA BY 2X."
+  },
+  {
+    "query": "can i get the deposit back in a currency different from the original?",
+    "response": "Yes, repayment can be done in the deposit currency or an alternative currency as specified in the agreement. The alternative currency repayment is based on the conversion rate agreed upon."
+  },
+  {
+    "query": "Does the bank have a gym or relaxation areas?",
+    "response": "Yes, the office includes a gym and soft relaxation zones for employees."
+  },
+  {
+    "query": "Use card to repay friends",
+    "response": "Yes, you can transfer money to others’ accounts to repay friends or split expenses, using card-to-card transfers or Fast Payment System."
+  },
+  {
+    "query": "is alfa-bank’s chinese rating good or bad",
+    "response": "Alfa-Bank has a AA- rating in China, which is generally considered a strong credit rating."
+  },
+  {
+    "query": "Debit vs credit card",
+    "response": "A debit card uses your own funds and does not let you borrow money, while a credit card offers a borrowing limit that you must pay back later."
+  },
+  {
+    "query": "How to increase cashback on my card?",
+    "response": "Maximize cashback by staying within the transaction limit of 100,000 rubles for regular cards or 500,000 rubles for premium cards."
+  },
+  {
+    "query": "Previous rating of Alfa-Bank",
+    "response": "Before September 23, 2024, Alfa-Bank’s rating outlook was Stable; it has since been updated to Positive."
+  },
+  {
+    "query": "Can Alfa-Bank help with factoring before delivery?",
+    "response": "Yes, pre-delivery factoring is available as part of the bank’s factoring services."
+  },
+  {
+    "query": "where are the cashback offers for partners listed?",
+    "response": "All cashback offers are listed in the mobile app or Alfa-Online under the Partner Offers section."
+  },
+  {
+    "query": "Plastic waste reduction methods",
+    "response": "Alfa-Bank reduces plastic waste by using remelted plastic cards and plant-based materials for new products."
+  },
+  {
+    "query": "Is Alfa-Bank’s credit rating outlook stable?",
+    "response": "Yes, the outlook for Alfa-Bank’s credit rating is Stable."
+  },
+  {
+    "query": "Need e-docs for factoring",
+    "response": "Electronic documents and e-signatures are required to access the online factoring service."
+  },
+  {
+    "query": "What happens to my data after it’s no longer needed?",
+    "response": "We destroy your personal data irreversibly within the statutory period once processing is no longer necessary or if you withdraw consent, unless legally required to retain it."
+  },
+  {
+    "query": "App not available on Apple App Store",
+    "response": "iPhones cannot install the app via the App Store. You can request a bank employee to install it for you at home or at a branch."
+  },
+  {
+    "query": "financial institution eligibility?",
+    "response": "Yes, financial institutions are eligible to use investment structured finance products."
+  },
+  {
+    "query": "Debit vs credit explained",
+    "response": "A debit card uses your own funds, and you cannot spend more than what’s available. A credit card lets you borrow up to a set limit (e.g., 100,000 rubles for an installment plan) and must be repaid afterward."
+  },
+  {
+    "query": "Can I skip income proof for loan under 300k?",
+    "response": "Yes, if you do not have an Alfa-Bank salary card. For loans under 300,000 ₽, the passport is the only document required."
+  },
+  {
+    "query": "My merchant returned funds but the limit didn’t increase. Why?",
+    "response": "The Remaining Limit increases automatically when funds are returned by the Merchant. If it hasn’t updated, confirm the refund was received by checking with the Merchant or Alfa-Bank."
+  },
+  {
+    "query": "What’s Alfa Bank’s credit rating on the Chinese national scale?",
+    "response": "On 2 February 2024, China Lianhe Credit Rating Co., Ltd assigned Alfa-Bank an AA- rating on the Chinese national scale with a Stable outlook."
+  },
+  {
+    "query": "Will Alfa-Bank meet its debt obligations?",
+    "response": "Alfa-Bank, as a responsible borrower, is committed to fulfilling its payment obligations when it becomes technically and legally possible."
+  },
+  {
+    "query": "self cash collection process",
+    "response": "Self Cash Collection allows you to deposit income into current accounts through online ATMs for business cash flow management."
+  },
+  {
+    "query": "What is the Life Line Fund that Alfa-Bank supports?",
+    "response": "Life Line Fund is a charitable foundation whose initiatives to save seriously ill children Alfa-Bank has been supporting for 17 years."
+  },
+  {
+    "query": "Research reports for IPO marketing?",
+    "response": "We create research reports and pre-marketing materials to support investor communication during IPO/SPO."
+  },
+  {
+    "query": "how can i get permanent residence in russia as a stateless person",
+    "response": "As a stateless person, you must have a residence permit in the Russian Federation to reside permanently."
+  },
+  {
+    "query": "Why no cashback on returned purchases?",
+    "response": "Purchases that were later returned do not earn cashback."
+  },
+  {
+    "query": "Cashback delayed? When will it appear?",
+    "response": "Cashback is usually transferred on the 10th of the month. However, partners may have extended timelines, so the payment could arrive later depending on their schedule."
+  },
+  {
+    "query": "do you require third parties to follow data protection rules?",
+    "response": "Yes. Any third party handling your data must comply with legally established data processing principles, confidentiality obligations, and security measures as stipulated in our contracts."
+  },
+  {
+    "query": "help with m&a strategy",
+    "response": "Our advisory services include developing strategy and tactics for transactions involving divestures, acquisitions, and mergers."
+  },
+  {
+    "query": "Kyrgyzstan card withdrawal options",
+    "response": "You can withdraw cash in all banks participating in the ELCART payment system in Kyrgyzstan."
+  },
+  {
+    "query": "Legal docs for debt servicing Loans",
+    "response": "Debt servicing for Loans is based on Russian Presidential decrees, Bank of Russia Board Decisions, and Bank of Russia clarifications."
+  },
+  {
+    "query": "Cash withdrawal free in partner banks?",
+    "response": "Yes, there are no additional charges for cash withdrawals in partner banks’ ATMs."
+  },
+  {
+    "query": "FX transactions in two accounts?",
+    "response": "FX transactions are supported across two accounts with Alfa-Bank in different currencies."
+  },
+  {
+    "query": "can we use atm for p2p payments",
+    "response": "Yes, P2P and P2B payments can be made via cash-in ATMs."
+  },
+  {
+    "query": "What is confidential factoring?",
+    "response": "Confidential factoring involves keeping the bank’s involvement in the transaction private from the client’s business partners, available in both recourse and non-recourse forms."
+  },
+  {
+    "query": "Margin trading for indices",
+    "response": "Yes, indices are part of the wide range of assets for margin trading."
+  },
+  {
+    "query": "Can I repay my loan online?",
+    "response": "Yes, you can repay through your personal account online by navigating to **Loans → Replenish account**."
+  },
+  {
+    "query": "Blue stamp",
+    "response": "The certificate you receive will include a blue stamp from the bank, confirming validity."
+  },
+  {
+    "query": "pay internet bill using debit card?",
+    "response": "You can pay bills for utilities, internet, or mobile balance top-ups with your Alfa-Bank debit card."
+  },
+  {
+    "query": "Tracking my bank card delivery",
+    "response": "Track your card in the mobile app or use the link from your SMS or push notification."
+  },
+  {
+    "query": "Margin trading forex forex",
+    "response": "Margin trading includes forex for leveraged forex positions."
+  },
+  {
+    "query": "Margin trading fx and stocks",
+    "response": "Margin trading covers forex, stocks, and other underlying assets."
+  },
+  {
+    "query": "Can I get credit derivatives for my supply chain risks?",
+    "response": "Yes, credit derivatives are available to mitigate supply chain credit risks, allowing businesses to protect against counterparty defaults."
+  },
+  {
+    "query": "What packages exclude quasi-cash charges?",
+    "response": "The fee is excluded for the Maximum Ultra, Maximum Free, Maximum Ultra Free, Premium, A-Club packages, and the Maximum+ package for personalized cards."
+  },
+  {
+    "query": "difference between online and paper deposits",
+    "response": "Online deposits are handled through the online banking system, while paper deposits require submitting an application in print format."
+  },
+  {
+    "query": "Why am I being charged interest after the grace period?",
+    "response": "If you don’t repay the debt during the grace period, interest is calculated on the full amount and for the full usage period."
+  },
+  {
+    "query": "Can I invest in hybrid products?",
+    "response": "Hybrid Products combining fixed income instruments with derivative strategies are available for different client types and situations."
+  },
+  {
+    "query": "How are payments handled during holidays in Russia?",
+    "response": "Book transfers can be processed during holidays up to 18:00 Moscow time, but real-time transfers through the Bank of Russia system adhere to standard working hours."
+  },
+  {
+    "query": "who offers the best hybrid products?",
+    "response": "Alfa Bank is a market leader in innovative hybrid products for corporate clients."
+  },
+  {
+    "query": "Use debit card for purchases",
+    "response": "Yes, a debit card can be used to pay for purchases wherever it is accepted."
+  },
+  {
+    "query": "What about GBP payments?",
+    "response": "GBP falls under \"other European currencies,\" so its payments execute next-day value."
+  },
+  {
+    "query": "How long until cashback points show in app",
+    "response": "Bonus points appear in the mobile app 2 days after settlement—visible once the clock icon next to the purchase disappears."
+  },
+  {
+    "query": "cut-off time electronic payments weekend",
+    "response": "Electronic payments must be submitted by 5pm Moscow time on weekends."
+  },
+  {
+    "query": "underlying assets for bonds",
+    "response": "The underlying assets for bonds include Russian stocks (equities, baskets, indexes) and CNY/RUR currencies."
+  },
+  {
+    "query": "what benchmark rates apply to eur accounts?",
+    "response": "EUR account balances accrue interest based on the LIBOR EUR overnight rate, following Alfa-Bank’s Schedule of interest."
+  },
+  {
+    "query": "what is the difference between a debit card and a credit card?",
+    "response": "A debit card holds only your own money and does not allow borrowing, while a credit card has a limit for borrowing money from the bank that you can repay later."
+  },
+  {
+    "query": "i have an issue with the privacy policy",
+    "response": "Send an inquiry via the bank’s online feedback form, ensuring the subject line states \"Privacy Policy.\""
+  },
+  {
+    "query": "My purchase was 60,000 RUB with a Standard card. How are miles calculated?",
+    "response": "For purchases over 50,000 RUB with non-premium cards, no miles are credited beyond the first 50,000 RUB. In your case, miles will be calculated for 50,000 RUB."
+  },
+  {
+    "query": "I want to avoid ATM fees. Can I use my card at Ural Bank’s machines?",
+    "response": "Yes, you can use your card at Ural Bank for Reconstruction and Development ATMs without incurring fees."
+  },
+  {
+    "query": "what if the underlying index crashes?",
+    "response": "A sharp drop in the index would negatively impact the additional interest rate, potentially reducing overall returns."
+  },
+  {
+    "query": "How is cashback calculated?",
+    "response": "Cashback is calculated based on the amount you spend—higher spending leads to a higher cashback return."
+  },
+  {
+    "query": "how to deposit cash into our company account",
+    "response": "You can use the Self Cash Collection feature to deposit income into your current account via an online ATM."
+  },
+  {
+    "query": "When is cashback from partners credited?",
+    "response": "We credit cashback on the 10th of each month."
+  },
+  {
+    "query": "do i need a new debit card?",
+    "response": "If you don’t already have an Alfa-Bank card, you’ll receive a free one with the loan amount already credited."
+  },
+  {
+    "query": "What Russian laws apply to debt under Loans and LPNs?",
+    "response": "The servicing of debt under Loans and LPNs in Russia is governed by Presidential decrees, Decisions of the Bank of Russia Board of Directors, and official clarifications from the Bank of Russia."
+  },
+  {
+    "query": "need online payment system for store",
+    "response": "Use Acquiring or E-commerce solutions to accept online payments without website changes."
+  },
+  {
+    "query": "how cashback works if i return part of purchase",
+    "response": "Cashback adjustments for partial returns occur in the reporting period of the original transaction."
+  },
+  {
+    "query": "How to get euros abroad?",
+    "response": "You can withdraw the local currency from a foreign ATM and exchange it for euros at a currency exchange office."
+  },
+  {
+    "query": "What’s the minimum sum for equipment import financing?",
+    "response": "The minimum sum for ECA-covered financing of equipment imports is $1,000,000."
+  },
+  {
+    "query": "What foreign currencies can be traded",
+    "response": "Alfa-Bank offers derivatives in CNY/RUB, CIS Currencies, USD/RUB, EUR/RUB, EUR/USD, and all major currencies."
+  },
+  {
+    "query": "Hybrid products for investment?",
+    "response": "Alfa-Bank offers Hybrid Products that combine fixed income with derivative strategies for investment purposes across client scenarios."
+  },
+  {
+    "query": "When does my credit card grace period start again after I pay off my balance?",
+    "response": "The grace period resets during the day after you fully repay your debt."
+  },
+  {
+    "query": "Best bank awards?",
+    "response": "We’re recognized as the best bank for business by Markswebb and the best bank in Russia by Euromoney."
+  },
+  {
+    "query": "Cash pooling",
+    "response": "Cash pooling allows you to control the account balances of the Group of Companies effectively."
+  },
+  {
+    "query": "how to find out exact fee for my tariff?",
+    "response": "Clarify the exact fee based on your tariff at a branch or by calling +7 495 78-888-78 (Moscow) or 8 800 200 00 00 (other regions)."
+  },
+  {
+    "query": "mobile app available?",
+    "response": "Yes, our app is the best in Russia and Central and Eastern Europe."
+  },
+  {
+    "query": "fee-free atm list",
+    "response": "Free ATM access is available at Alfa-Bank and partner banks: B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, Russian Agricultural Bank, and Ural Bank for Reconstruction and Development."
+  },
+  {
+    "query": "How to avoid double currency conversion when using my card overseas?",
+    "response": "Link your card to a ruble account to eliminate double conversion—check rates on the Central Bank website."
+  },
+  {
+    "query": "Card pickup address wrong",
+    "response": "Correct your pickup address in the app, Alfa-Online, or by calling customer support."
+  },
+  {
+    "query": "is the application for accession part of the process?",
+    "response": "Yes, along with the Agreement and Risk Declaration, you must submit an Application for Accession."
+  },
+  {
+    "query": "Alfa-Bank corporate finance scope",
+    "response": "Alfa-Bank’s corporate finance services cover mergers and acquisitions, corporate finance, and equity capital markets."
+  },
+  {
+    "query": "Where to start a transfer in the app",
+    "response": "You can initiate transfers from the app’s main screen or through the following path: Payments → Transfer Method."
+  },
+  {
+    "query": "User definition?",
+    "response": "A User is someone who has completed registration, accepted the Agreement, and uses the Mobile Bank only for non-commercial purposes."
+  },
+  {
+    "query": "Violation privacy policy report",
+    "response": "Submit your report using the feedback form on the bank’s website, specifying \"Privacy Policy\" as the subject."
+  },
+  {
+    "query": "How to get more cashback?",
+    "response": "Ensure all transactions stay below 100,000 rubles (regular) or 500,000 rubles (premium) and stay within the monthly point limits."
+  },
+  {
+    "query": "What about my credit card fees once I cancel it?",
+    "response": "If the card is immediately closed, you won’t be charged any fees and won’t owe anything."
+  },
+  {
+    "query": "Can I use the mobile app for payments?",
+    "response": "Yes, you can make purchases or transfers using the Alfa-Bank app with the funds loaded on your card."
+  },
+  {
+    "query": "Where can I receive personal services for individuals?",
+    "response": "You can receive services for individuals at a Bank Branch, which operates as an additional office of ALFA-BANK."
+  },
+  {
+    "query": "What is the third document needed?",
+    "response": "The third document is the Application for accession."
+  },
+  {
+    "query": "What are your ESG principles?",
+    "response": "Alfa-Bank's ESG principles include effective management focused on helping society, caring for nature, enhancing customer service, supporting employees, and creating a healthy corporate environment."
+  },
+  {
+    "query": "documents required for non-citizens",
+    "response": "Foreign citizens or stateless persons must bring the necessary documents as specified by the bank when requested for banking services."
+  },
+  {
+    "query": "ruAA+ Alfa-Bank",
+    "response": "Alfa-Bank has a national-scale credit rating of ruAA+ with a Stable outlook."
+  },
+  {
+    "query": "Debt servicing legal source",
+    "response": "The legal sources include Executive Orders of the Russian President, Decisions of the Bank of Russia Board of Directors, and Bank of Russia clarifications."
+  },
+  {
+    "query": "I need to block my card quickly",
+    "response": "You can instantly block your card through the Alfa-Bank app or Alfa-Online if it’s lost or stolen."
+  },
+  {
+    "query": "Can I use International Corporate Business Card abroad",
+    "response": "Yes, International Corporate Business Cards are designed to help manage corporate expenses globally."
+  },
+  {
+    "query": "How does Alfa-Bank use my personal data?",
+    "response": "We use your data for core activities like conducting banking operations, managing contracts, HR records, developing products, improving services, sending advertising messages about third-party services, creating data systems for analysis, and ensuring security measures."
+  },
+  {
+    "query": "What is an Outperformance certificate?",
+    "response": "An Outperformance certificate is a structured bond with capital at risk that offers income in the format of participation with leverage."
+  },
+  {
+    "query": "Can non-banking institutions partner as correspondent?",
+    "response": "Yes, non-banking credit institutions from Russia and abroad maintain correspondent accounts with Alfa-Bank."
+  },
+  {
+    "query": "How to link credit card to online services",
+    "response": "Link your credit card in the mobile app to online services like taxis or streaming platforms. Once linked, payments will process automatically."
+  },
+  {
+    "query": "Bond placements fx finance",
+    "response": "Yes, we finance initial bond placements in major currencies."
+  },
+  {
+    "query": "LC options available",
+    "response": "Yes, our services include letter of credit transactions in both RUB and foreign currencies (FCY)."
+  },
+  {
+    "query": "Bond forex finance",
+    "response": "Initial bond placements can be financed in major global currencies."
+  },
+  {
+    "query": "Card servicing charges for my old card",
+    "response": "Older cards may incur fees. Check their status via the mobile app or Alfa-Online."
+  },
+  {
+    "query": "What laws govern refunds and limit increases?",
+    "response": "Refund Operations and corresponding limit increases are governed by Russian legislation and agreements between you and the Merchant."
+  },
+  {
+    "query": "alfa-bank collaborate with swift for international payments?",
+    "response": "Yes, Alfa-Bank is a member of the SWIFT international payment system."
+  },
+  {
+    "query": "Early repayment not working app?",
+    "response": "If you're having trouble repaying through the app, ensure your funds are in the account or expected by 11:00 PM Moscow time. The app will then process your early repayment."
+  },
+  {
+    "query": "min down payment required",
+    "response": "The advance payment starts at 15%."
+  },
+  {
+    "query": "Which currency is used for the investment?",
+    "response": "The investment is in Russian rubles."
+  },
+  {
+    "query": "why isn't there cashback on my purchase at a pawnshop?",
+    "response": "Purchases in financial organizations and pawnshops do not earn cashback."
+  },
+  {
+    "query": "sbp definition",
+    "response": "SBP stands for Fast Payment System which enables instant phone number-based transfers."
+  },
+  {
+    "query": "liquidity support solutions from Alfa-Bank?",
+    "response": "Alfa-Bank offers a set of liquidity support solutions for customers."
+  },
+  {
+    "query": "Same day card activation online",
+    "response": "Yes, your account will be opened immediately after ordering, so you can start using it for online payments and transfers the same day."
+  },
+  {
+    "query": "Advance payment percentage",
+    "response": "The advance payment can be as low as 0%."
+  },
+  {
+    "query": "How does electronic document flow work for factoring in Alfa-Bank?",
+    "response": "The platform allows suppliers and debtors to process electronic document flow (EDF), which is used for financing within several hours after verification."
+  },
+  {
+    "query": "Can I get a solution not available elsewhere?",
+    "response": "Alfa-Bank focuses on crafting tailored solutions for clients that may not be accessible through other Russian banks."
+  },
+  {
+    "query": "Is Alfa-Bank part of SWIFT?",
+    "response": "Yes, Alfa-Bank is a member of the International Payment System SWIFT (Society for Worldwide Interbank Financial Telecommunication)."
+  },
+  {
+    "query": "can i make a book transfer at 8pm on friday?",
+    "response": "Yes, book transfers are accepted 24/7 on business days, so Friday at 8pm is within the processing window."
+  },
+  {
+    "query": "Monthly limit for SBP commission",
+    "response": "There is no monthly limit the commission remains 0 RUB even for large volumes."
+  },
+  {
+    "query": "Why does Alfa-Online ask for my card number first?",
+    "response": "To log in to Alfa-Online, start by entering your card number. After that, you’ll create a login and password to access your account."
+  },
+  {
+    "query": "Is there a cap on cash loans?",
+    "response": "No, there is no cap; you can apply for loans without any numerical restrictions."
+  },
+  {
+    "query": "How does Alfa-Bank help the environment?",
+    "response": "Alfa-Bank helps the environment by reducing paper use, introducing biodegradable materials like FSC-certified eco-envelopes with soy ink, and recycling plastic cards into merch."
+  },
+  {
+    "query": "Can I repay the overdraft anytime?",
+    "response": "Yes, you can repay the overdraft at any time. Failure to repay by the day’s end results in conversion into an overnight loan."
+  },
+  {
+    "query": "Bond fx finance options",
+    "response": "Initial bond placements can be financed in major currencies."
+  },
+  {
+    "query": "Can I have a 0% down payment for the leased vehicle?",
+    "response": "Yes, the down payment can start from 0%."
+  },
+  {
+    "query": "how to add icon for alfa-online?",
+    "response": "Open Alfa-Online in Safari, tap Share, choose “Add to Home Screen,” log in with your card number, create a username and password, and tap “Save Password” to keep it stored."
+  },
+  {
+    "query": "How fast can I get financing with online factoring?",
+    "response": "Clients can receive financing within several hours based on electronic documents and e-signatures."
+  },
+  {
+    "query": "Can I use REPO to lend cash?",
+    "response": "Yes, clients may lend or borrow cash via REPO deals depending on their investment objectives."
+  },
+  {
+    "query": "how to maximize returns",
+    "response": "Maximize returns by selecting high-potential underlying assets (like stocks) and staying informed about market conditions."
+  },
+  {
+    "query": "Does cash withdrawal count toward monthly limit?",
+    "response": "For cards with the free cash withdrawal feature, yes. The monthly limit is ₽50,000, with any excess incurring a commission."
+  },
+  {
+    "query": "Can I avoid the late fee if I pay later?",
+    "response": "No, a 0.1% fee is charged for the period between your missed payment and the actual payment date."
+  },
+  {
+    "query": "Can I get returns in a different currency",
+    "response": "Returns are based on the chosen underlying asset's performance and will reflect the currency or value of that asset."
+  },
+  {
+    "query": "Can I use my Alfa-Bank Mir card with Samsung Pay on Android?",
+    "response": "Yes, if you have an Android smartphone, you can add your Mir card to the Mir Pay and Samsung Pay apps for mobile payments."
+  },
+  {
+    "query": "Does Alfa Private handle all banking needs?",
+    "response": "Yes, Alfa Private serves as a comprehensive solution for everything from basic banking to advanced investment and business tasks."
+  },
+  {
+    "query": "applied for ofsic ofac licenses?",
+    "response": "Alfa-Bank requested licenses from OFSI and OFAC to process payments under Loans and LPNs."
+  },
+  {
+    "query": "Same day processing for USD",
+    "response": "Yes, USD payments are executed same day value."
+  },
+  {
+    "query": "Best FX Desk years",
+    "response": "Alfa-Bank won the Best FX Desk in Russia for 9 consecutive years, from 2012 to 2020."
+  },
+  {
+    "query": "i need to manage daily payments. suggest solution",
+    "response": "The overdraft facility ensures predictable stability by covering payments instantly, even if your account balance is insufficient."
+  },
+  {
+    "query": "how to avoid entering my card info multiple times for online purchases?",
+    "response": "Link your debit card to your accounts on taxi, streaming, or shopping platforms via the mobile app. Payments will then go through automatically."
+  },
+  {
+    "query": "Is the One-Time Password used only for transactions?",
+    "response": "Yes, the One-Time Password is specifically generated for transactions requiring additional verification in the Mobile Bank."
+  },
+  {
+    "query": "How do I know when cashback is finalized?",
+    "response": "Look for the clock icon next to the purchase in your app; when it disappears, the cashback has been confirmed."
+  },
+  {
+    "query": "Risk declaration for investment structured products",
+    "response": "The Risk Declaration is required alongside the Agreement and Application for Accession."
+  },
+  {
+    "query": "can i use partner atms to pay off my loan?",
+    "response": "Yes, you can repay your loan at Alfa-Bank or partner ATMs."
+  },
+  {
+    "query": "Documents required for structured deposits",
+    "response": "The Agreement, Risk Declaration, and Application for Accession are the mandatory documents for structured deposits."
+  },
+  {
+    "query": "What if my device can’t install the Mobile Bank app?",
+    "response": "Your device must permit installation of the Mobile Bank app to qualify as a mobile device."
+  },
+  {
+    "query": "What is the purpose of personal data destruction?",
+    "response": "Destruction ensures the content of personal data cannot be restored in the system and eliminates the physical media storing it."
+  },
+  {
+    "query": "Margin trading forex forex",
+    "response": "Margin trading includes forex and leveraged forex positions."
+  },
+  {
+    "query": "Need funding as a buyer. Can factoring help?",
+    "response": "Yes, if you need funding as a buyer, factoring services can be an advantageous solution for managing your financial operations."
+  },
+  {
+    "query": "can i use the card online before receiving the physical one?",
+    "response": "Yes, the account is opened immediately, so you can use the card for transfers and online purchases on the same day, even before the physical card arrives."
+  },
+  {
+    "query": "Can I open a foreign currency account with Alfa-Bank?",
+    "response": "Yes, you can open accounts in RUB and other currencies."
+  },
+  {
+    "query": "What are the rewards for using the debit card?",
+    "response": "You can earn bonuses, miles, or up to 100% cashback for purchases made with your Alfa-Bank debit card."
+  },
+  {
+    "query": "Can homeowners’ association be a TSP merchant?",
+    "response": "No, homeowners’ associations are excluded from being listed as Merchant (TSP) per the definition."
+  },
+  {
+    "query": "What if the market drops?",
+    "response": "If the market drops, the Outperformance certificate may result in capital loss due to its capital-at-risk structure."
+  },
+  {
+    "query": "referral rewards not showing",
+    "response": "Review your referral rewards in the app’s referral section (Money for you and your friends → Debit card → Recommend). If missing, update the app."
+  },
+  {
+    "query": "lending securities via repo",
+    "response": "REPO deals are the method used to lend securities, allowing clients to optimize cash-flow and boost portfolio performance."
+  },
+  {
+    "query": "book transfers on holidays",
+    "response": "Book transfers can be processed on holidays up to 6pm Moscow time."
+  },
+  {
+    "query": "What documents to apply for cash loan with Alfa-Bank salary card",
+    "response": "If your salary is credited to an Alfa-Bank card, only a Russian passport is required."
+  },
+  {
+    "query": "What happens if I forget to pay my loan?",
+    "response": "If you forget to pay your loan on time, we charge 0.1% of the overdue amount per day."
+  },
+  {
+    "query": "Partner offers for higher cashback",
+    "response": "Partner offers with increased cashback and discounts are available in the “Showcase” section of the app."
+  },
+  {
+    "query": "Transaction confirmed after 9 days. Is that bad?",
+    "response": "Yes, if the transaction is confirmed after 9 days, we withdraw the funds again. If there’s insufficient money in your account at that point, an overdraft occurs."
+  },
+  {
+    "query": "Documents about LPNs servicing",
+    "response": "Servicing of LPNs follows Russian laws including Presidential Executive Orders, decisions from the Bank of Russia Board of Directors, and the Bank’s official clarifications."
+  },
+  {
+    "query": "Corporate finance services",
+    "response": "Alfa-Bank offers advisory services in mergers and acquisitions, corporate finance, and equity capital markets."
+  },
+  {
+    "query": "foreign exchange solutions for companies?",
+    "response": "Alfa-Bank offers forward and cash FOREX transactions, settlement optimizations, and strategies to mitigate costs and risks for businesses involved in international trade."
+  },
+  {
+    "query": "Address of Alfa-Bank in Belarus",
+    "response": "The address for Alfa-Bank’s correspondent branch in Belarus is Minsk 43-47, Surganova Street, 220013 Minsk, Belarus."
+  },
+  {
+    "query": "What is a credit card?",
+    "response": "A credit card is a payment card that allows you to borrow money from the bank."
+  },
+  {
+    "query": "Delivery method needs changing to courier",
+    "response": "Call +7 495 78-888-78 (Moscow) or 8 800 200-00-00 (regions) to request a switch to courier delivery."
+  },
+  {
+    "query": "Email not receiving debit card certificate",
+    "response": "The certificate will be emailed to your registered address and saved in the mobile app or online banking. Check your inbox or spam folder if it doesn’t arrive."
+  },
+  {
+    "query": "use card token for payments",
+    "response": "Yes, you can perform an Expense Operation using the Card Token."
+  },
+  {
+    "query": "Can I send a book transfer on a public holiday at 5pm?",
+    "response": "Yes, book transfers are accepted until 6pm Moscow time on public holidays."
+  },
+  {
+    "query": "My Code works only on my current device",
+    "response": "The Code may be used on only one Mobile Device. If you change devices, you may need to update your linked device."
+  },
+  {
+    "query": "my business uses multiple currencies. any solution?",
+    "response": "Yes, the Deal Currency Deposit is ideal for managing multi-currency balances, allowing you to hedge market risks and optimize currency conversions."
+  },
+  {
+    "query": "can you list the legal and financial institutions alfa-bank collaborates with?",
+    "response": "Alfa-Bank collaborates with organizations such as the Association of Corporate Lawyers, the Association of Banks of Russia, and the St Petersburg Settlement and Depository Center, among others."
+  },
+  {
+    "query": "How does Alfa-Bank plan to settle its bonds and loans?",
+    "response": "The bank is collaborating with regulators and foreign financial institutions to identify an appropriate method to honor its commitment to repay its remaining obligations."
+  },
+  {
+    "query": "no charge",
+    "response": "Certificates and statements are free to request in the Alfa-Bank app or Alfa-Online."
+  },
+  {
+    "query": "How does a debit card handle money?",
+    "response": "A debit card contains your own money on it, allowing you to withdraw cash, transfer funds, or make payments directly from the card."
+  },
+  {
+    "query": "health insurance includes dental",
+    "response": "The expanded health insurance program covers a broader range of medical services, including dental care."
+  },
+  {
+    "query": "Is there a waiting period for account closure?",
+    "response": "Yes, the account will be fully closed after 45 days from the request submission."
+  },
+  {
+    "query": "iPhone users can use Mir card for phone payments?",
+    "response": "Currently, it isn’t possible to use Alfa-Bank cards for phone payments on Apple smartphones. We’re working on a solution, but for now, Android devices support Mir Pay and Samsung Pay."
+  },
+  {
+    "query": "Who manages personal data processing in the bank?",
+    "response": "Personal and confidential data processing is organized by the individuals designated as responsible for monitoring compliance with the privacy policy."
+  },
+  {
+    "query": "Risk declaration for structured products",
+    "response": "The Risk Declaration is required to acknowledge potential risks before proceeding."
+  },
+  {
+    "query": "Do online payments require the updated expiration date?",
+    "response": "No, use the old expiration date for online payments; the validity extension applies only to physical transactions."
+  },
+  {
+    "query": "Is 2-NDFL always mandatory?",
+    "response": "No, for loans up to 300,000 ₽ without an Alfa-Bank salary card, only a Russian passport is required. For larger loans, the 2-NDFL certificate (or its equivalent) is mandatory."
+  },
+  {
+    "query": "Why some goods/services excluded from TSP services?",
+    "response": "Certain goods or services are excluded because the Russian Government prohibits payment agents from accepting payments for them from individuals."
+  },
+  {
+    "query": "How does a Bank Branch differ from a regular bank office?",
+    "response": "A Bank Branch is an additional location, such as a credit or cash office, specifically designated for providing services to individuals."
+  },
+  {
+    "query": "What types of bonds does the bank handle?",
+    "response": "We have experience in trading investment-grade bonds, high-yield bonds, and distressed securities, catering to clients’ investment goals."
+  },
+  {
+    "query": "what’s the cost of sbp transfers?",
+    "response": "SBP transfers are free, with a 0 ₽ commission for all amounts."
+  },
+  {
+    "query": "Alfa-Bank rating agency – which?",
+    "response": "The Analytical Credit Rating Agency (ACRA) assesses Alfa-Bank’s national-scale credit rating."
+  },
+  {
+    "query": "Alfa cashback rules",
+    "response": "Cashback rounds purchases down to the nearest hundred, transactions must not exceed 100k/500k rubles, and points appear after 2 days."
+  },
+  {
+    "query": "card to card transfer fee",
+    "response": "Transfers to other Alfa-Bank clients are free. For transfers to other banks, there’s no fee if the “Free Payments” service is enabled."
+  },
+  {
+    "query": "Is the National Bank of South Ossetia the only option there?",
+    "response": "Yes, in South Ossetia, cash withdrawals can only be made at the National Bank of the Republic of South Ossetia."
+  },
+  {
+    "query": "why no unionpay?",
+    "response": "Alpha-Bank supports MasterCard Worldwide, Visa International, and the national payment system MIR."
+  },
+  {
+    "query": "cashback timing",
+    "response": "Bonus points appear in your app 2 days after settlement is completed."
+  },
+  {
+    "query": "Will I get cashback for paying a fine?",
+    "response": "No, payments for fines (MCC 7322, 9222, etc.) do not earn cashback."
+  },
+  {
+    "query": "Delayed loan payment fine",
+    "response": "Missing your loan payment results in a 0.1% daily fee on the overdue amount."
+  },
+  {
+    "query": "do i need extra documents for a 300k rub loan?",
+    "response": "No, for a loan of exactly 300,000 ₽ without an Alfa-Bank salary card, only a Russian passport is required."
+  },
+  {
+    "query": "Margin trading forex and stocks",
+    "response": "Margin trading supports forex, stocks, and other assets."
+  },
+  {
+    "query": "Lost card",
+    "response": "If your card is lost, you can block and reissue it via the Alfa-Bank app or Alfa-Online. Unblock it later if found to reuse it."
+  },
+  {
+    "query": "Send 150k via FPS cost",
+    "response": "Transferring 150,000 ₽ via FPS would cost 0.5% (750 ₽), as it exceeds the 100,000 ₽/month free limit."
+  },
+  {
+    "query": "I have multiple cards—how are withdrawal limits calculated?",
+    "response": "The cash withdrawal limit is shared across all your cards and accounts. It does not vary based on the number of cards or your tariff plan."
+  },
+  {
+    "query": "SMS alerts free for Premium holders?",
+    "response": "Yes, SMS notifications are free for Premium clients or the first payroll card."
+  },
+  {
+    "query": "My tablet, compatible?",
+    "response": "Yes, a tablet that is capable of installing Mobile Bank can be used as a Mobile Device."
+  },
+  {
+    "query": "Penalty for not paying on time",
+    "response": "A 0.1% fee is applied daily to the overdue loan amount if you don’t make the payment on time."
+  },
+  {
+    "query": "who qualifies for subordinated debt?",
+    "response": "Subordinated debt is available to clients seeking investment structured finance solutions, though specific eligibility may depend on individual circumstances."
+  },
+  {
+    "query": "pay car fines with app",
+    "response": "You can add your car registration number in the app to receive immediate notifications about fines, plus pay them with a 50% discount through the app."
+  },
+  {
+    "query": "sbp commission for 150 000 rub",
+    "response": "The commission is 0 RUB for SBP transfers even for amounts exceeding 100 000 RUB."
+  },
+  {
+    "query": "do you offer structured debt solutions?",
+    "response": "Yes, Alfa-Bank is a prominent player in structured debt solutions, complex credit derivatives, and structured notes."
+  },
+  {
+    "query": "What is the maximum outstanding loan limit after 7 years of leasing?",
+    "response": "The outstanding loan should not exceed 50% of the leased property’s market value by the 7th year."
+  },
+  {
+    "query": "How do I contact Moscow office?",
+    "response": "Contact the Moscow office via phone at +7 (495) 620-91-91 or by mail to 27 Kalanchevskaya str., Moscow, Russia, 107078."
+  },
+  {
+    "query": "What types of structured transactions has Alfa-Bank been involved in?",
+    "response": "Alfa-Bank has participated in transactions such as financing share buybacks via Non-Deliverable Share Swap, financing an international private equity fund focused on Russia and CIS markets, issuing structured derivative notes for insurance companies under an in-house repackaging program, and launching the first Diversified Payments Rights securitisation program in Russia."
+  },
+  {
+    "query": "where is the investment product placed?",
+    "response": "It is placed OTC through NSD."
+  },
+  {
+    "query": "Who is involved in Alfa-Bank’s debt resolution process?",
+    "response": "The bank is working with regulators and foreign financial institutions to address its outstanding payment obligations under the Loans and LPNs."
+  },
+  {
+    "query": "I can’t download app on Huawei phone",
+    "response": "Huawei users can download the Alfa-Bank app via Huawei AppGallery, our website, or other listed official store partners. Follow the **Download anyway → Allow installation** prompts if warnings appear."
+  },
+  {
+    "query": "debt servicing legal source",
+    "response": "The legal sources include Executive Orders of the Russian President, Decisions of the Bank of Russia Board of Directors, and Bank of Russia clarifications."
+  },
+  {
+    "query": "NFC near field communication",
+    "response": "NFC stands for Near Field Communication. It is a wireless technology that uses high-frequency signals for short-range data exchange between devices."
+  },
+  {
+    "query": "How is the payment schedule adjusted?",
+    "response": "Payments can be monthly or quarterly, with seasonal adjustments and a grace period based on the client’s cash flow."
+  },
+  {
+    "query": "grace period reset",
+    "response": "The grace period resets during the day after you fully repay your credit card debt. Check your app or Alfa-Online for confirmation."
+  },
+  {
+    "query": "Do I need a new debit card?",
+    "response": "If you don’t already have an Alfa-Bank card, you’ll receive a free one with the loan amount already credited."
+  },
+  {
+    "query": "Forex loans?",
+    "response": "Yes, financing in major global currencies is offered."
+  },
+  {
+    "query": "Why choose a non-personalized card over the regular one?",
+    "response": "The non-personalized card offers the same financial benefits (free use, cashback) but is available much faster—collect it in 10 minutes at a branch or receive it same-day via delivery."
+  },
+  {
+    "query": "NFC vs Wi-Fi",
+    "response": "NFC is a short-range, high-frequency communication technology for quick data exchanges, while Wi-Fi is a broader wireless network standard for internet connectivity over longer ranges."
+  },
+  {
+    "query": "How to access Moscow’s banking resources via Alfa-Bank?",
+    "response": "Alfa-Bank supports Moscow-based initiatives through its membership in the Moscow Banking Union and the Council of representatives of Plenipotentiary Banks under Mayor of Moscow."
+  },
+  {
+    "query": "Where do I set my card PIN?",
+    "response": "After activating your card in the Alfa-Bank app or Alfa-Online (\"All my products\" → \"Card account\"), you will be prompted to set your PIN code."
+  },
+  {
+    "query": "card to card fee",
+    "response": "Transfers to other Alfa-Bank clients are free, and transfers to other banks are free if you enable the \"Free Payments\" service. The fee for transfers to other banks is not specified here if the service is disabled."
+  },
+  {
+    "query": "non recourse structure?",
+    "response": "Factoring with Alfa-Bank includes a non-recourse structure providing full coverage for payment risks."
+  },
+  {
+    "query": "how do i get the cash loan to my account after approval?",
+    "response": "After your loan is approved, we’ll send the loan agreement and payment schedule to your email. Sign the agreement electronically or visit a branch to sign. Once signed, we’ll deliver a free debit card with the loan amount credited, or link the funds to your existing Alfa-Bank card."
+  },
+  {
+    "query": "Are there any restrictions on data sharing?",
+    "response": "Personal data is not shared unless you’ve explicitly permitted dissemination, or in cases involving banking secrets or legal requirements."
+  },
+  {
+    "query": "Do you offer structured debt solutions?",
+    "response": "Yes, Alfa-Bank is a prominent player in structured debt solutions, complex credit derivatives, and structured notes."
+  },
+  {
+    "query": "How much is the penalty for delaying a cash loan payment?",
+    "response": "The penalty is 0.1% of the overdue amount per day."
+  },
+  {
+    "query": "Alfa-Bank FX Desk Best FX in Russia 9 years",
+    "response": "Alfa-Bank FX Team has been recognized as the Best FX Desk in Russia for 9 consecutive years from 2012 to 2020, as awarded by the Moscow Interbank FX Association (MMBA), reflecting the opinion of professional FX traders and dealers."
+  },
+  {
+    "query": "Grace period ended, how is my balance handled?",
+    "response": "If you don’t repay the debt during the grace period, interest is calculated on the full amount and for the full usage period."
+  },
+  {
+    "query": "Can I get a higher rate by depositing more money?",
+    "response": "Yes, the deposit amount is one of the factors that influence the interest rate for your deposit."
+  },
+  {
+    "query": "How long after repayment does the grace period reset?",
+    "response": "The grace period resets during the day immediately following full repayment of your debt."
+  },
+  {
+    "query": "Does Alfa-Bank support international trading for Russian assets?",
+    "response": "Yes. Alfa-Bank’s trading teams are active in New York, London, and other European cities, facilitating access to global exchanges listing Russian securities."
+  },
+  {
+    "query": "no cashback listed",
+    "response": "Ensure you check the **Your Total Cashback** section in the app or Alfa-Online. Cashback appears there and is credited on the 10th of the month following your purchases."
+  },
+  {
+    "query": "Margin trading forex forex",
+    "response": "Margin trading allows leveraged forex positions in major currencies."
+  },
+  {
+    "query": "Credit card cash withdrawal allowed",
+    "response": "Yes, you can withdraw cash from ATMs using your credit card."
+  },
+  {
+    "query": "Why do I need to turn off myVPN for cashback?",
+    "response": "Using aVPN can prevent some partner offers from working, so it’s recommended to disable it."
+  },
+  {
+    "query": "Automated budget control?",
+    "response": "The Budget Performance Control System automatically monitors budget performance and outgoing payments to ensure financial discipline."
+  },
+  {
+    "query": "card closure and account",
+    "response": "When you close your card, the associated account stays active. You can use it independently, link a new card, or close the account separately."
+  },
+  {
+    "query": "How does the additional interest rate work?",
+    "response": "The additional interest rate depends on the performance or behavior of the chosen underlying asset (currency, commodity, index, or stock)."
+  },
+  {
+    "query": "What causes the repayment sum to be more than the cash loan?",
+    "response": "Interest is calculated on the entire loan amount from the moment it is issued. If repaid early, the repayment includes the interest that has already accumulated."
+  },
+  {
+    "query": "what is the phygital model?",
+    "response": "We build new offices combining digital and physical experiences—no wires or paper, but with coffee points and Face ID systems for seamless service."
+  },
+  {
+    "query": "Grace period over and charges applied",
+    "response": "If the grace period has ended and the debt remains unpaid, interest will be charged on the full amount for the entire usage period."
+  },
+  {
+    "query": "What is the minimum amount for a structured investment deposit?",
+    "response": "The minimum amount is 10 million RUB or 1 million CNY."
+  },
+  {
+    "query": "can I use my phone to access alfa bank site",
+    "response": "Yes, you can use the Bank Website via Alfa-Bank's mobile software installed on your phone, which is part of the Bank’s official website at https://alfabank.ru."
+  },
+  {
+    "query": "what’s the requirement for a cash loan with an alfa-bank salary card?",
+    "response": "Only a Russian passport is required for a cash loan if your salary is credited via Alfa-Bank."
+  },
+  {
+    "query": "free atm cash partner banks",
+    "response": "Alfa-Bank partners with B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, and Ural Bank to offer free cash withdrawals."
+  },
+  {
+    "query": "no money after funds return. can i still get overdraft fee?",
+    "response": "Yes, if the funds are returned due to delayed transaction confirmation but then confirmed later, and your account lacks sufficient money at that moment, an overdraft is charged."
+  },
+  {
+    "query": "How to check cashback balance",
+    "response": "Open the Alfa-Bank app or Alfa-Online and go to the **Your Total Cashback** section to check your balance."
+  },
+  {
+    "query": "repo to increase portfolio performance",
+    "response": "Using REPO deals helps clients increase portfolio performance by borrowing or lending securities/cash to optimize cash-flow."
+  },
+  {
+    "query": "how much for fps transfers above 100,000 ₽?",
+    "response": "If your FPS transfers exceed 100,000 ₽ in a month, the fee is 0.5% per transfer, capped at 1,500 ₽."
+  },
+  {
+    "query": "stop data processing",
+    "response": "You can withdraw your consent for data processing and request deletion if applicable."
+  },
+  {
+    "query": "Funds overpaid. Can I withdraw them?",
+    "response": "Yes, withdraw the remaining funds from an ATM, use them for purchases, or transfer via the mobile app under **Payments → Transfer method**."
+  },
+  {
+    "query": "Can I access certificates online for my debit card?",
+    "response": "Yes, certificates can be accessed in the Alfa-Bank mobile app under the Card account menu, specifically in the Certificates and statements section."
+  },
+  {
+    "query": "Largest private bank in Russia?",
+    "response": "Alfa-Bank is the largest private bank in Russia with extensive banking services experience."
+  },
+  {
+    "query": "Getting certificates for my card account?",
+    "response": "You can retrieve certificates for your debit card account through the Alfa-Bank app under \"Card account\" and \"Certificates and statements.\""
+  },
+  {
+    "query": "Free credit card certificate",
+    "response": "Certificates for your credit card are available at no cost via the Alfa-Bank app or Alfa-Online."
+  },
+  {
+    "query": "Apply for card without visiting branch",
+    "response": "Yes, apply online via the Alfa-Bank website or through the app/Alfa-Online if you have an account."
+  },
+  {
+    "query": "Margin trading forex fx",
+    "response": "Margin trading allows forex trading with leveraged access."
+  },
+  {
+    "query": "Grace period starts when?",
+    "response": "The grace period begins on the date of the qualifying transaction."
+  },
+  {
+    "query": "does alfa-bank support social projects?",
+    "response": "Yes, we support and develop projects focused on solving social, environmental, and management problems. Explore our social and ESG reports for specifics."
+  },
+  {
+    "query": "Free cash withdrawal partner banks?",
+    "response": "Alfa-Bank partners for commission-free withdrawals include B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, and Ural Bank for Reconstruction and Development."
+  },
+  {
+    "query": "no collateral needed?",
+    "response": "Correct, the leased asset serves as security, so no additional collateral is required."
+  },
+  {
+    "query": "Does the online statement require physical submission?",
+    "response": "No, the PDF certificate from the app or online banking has full legal validity and doesn’t require a printed version."
+  },
+  {
+    "query": "I can’t find my free cash withdrawal limit. Where do I look?",
+    "response": "Check the Credit card → Tariffs section in the Alfa-Bank mobile app or Alfa-Online to see if your card includes the free cash withdrawal feature."
+  },
+  {
+    "query": "Corporate finance and equity markets services",
+    "response": "Alfa-Bank offers advisory services in corporate finance and equity capital markets."
+  },
+  {
+    "query": "is sbp transfer instant",
+    "response": "Yes SBP transfers credit funds immediately to the recipient's card."
+  },
+  {
+    "query": "Can i sign but not sure about payments?",
+    "response": "No, you must be certain you can meet the repayment obligations before signing the loan agreement to avoid legal risks."
+  },
+  {
+    "query": "When is cashback transferred to my card?",
+    "response": "Cashback is typically transferred on the 10th of the month, but specific partners may follow their own payment schedules."
+  },
+  {
+    "query": "Why is my limit higher after a transaction reversal?",
+    "response": "Your limit increased because the merchant reversed the transaction in rubles, either due to service non-provision or other legal grounds, which counts as a refund operation."
+  },
+  {
+    "query": "Access business banking online",
+    "response": "Use Alfa Business Online to access your account remotely via any PC."
+  },
+  {
+    "query": "Early repayment conditions?",
+    "response": "You cannot apply for early repayment in the final month of the repayment schedule or on the payment due date."
+  },
+  {
+    "query": "Margin trading forex forex",
+    "response": "Margin trading includes forex and leveraged forex trading."
+  },
+  {
+    "query": "Is there a time limit for drawing down the loan?",
+    "response": "Yes, the loan must be drawn down within a calendar year."
+  },
+  {
+    "query": "minimum ios version required for alfa-bank app?",
+    "response": "The app requires iOS version 9 or higher."
+  },
+  {
+    "query": "Repayment options for investment deposits?",
+    "response": "Repayment can be in the original deposit currency or an alternative currency at the agreed conversion rate, with no additional fees for the alternative currency option."
+  },
+  {
+    "query": "Statement for accountant",
+    "response": "The account statement can be requested through the mobile app or online banking."
+  },
+  {
+    "query": "How does Alfa-Bank reduce paper usage?",
+    "response": "Alfa-Bank switched to biometrics and digital signatures, saving 200 tons of paper annually, equivalent to 7 hectares of forest or 3,000 trees."
+  },
+  {
+    "query": "Who is responsible for data processing in your bank?",
+    "response": "A person has been appointed to organize personal data processing and ensure adherence to legal and policy requirements."
+  },
+  {
+    "query": "No OTP received",
+    "response": "If you don’t receive an OTP, ensure your phone number is registered correctly and check with the Bank to confirm the procedure, as the exact steps are defined by the Bank."
+  },
+  {
+    "query": "alfa-bank structured finance for institutions",
+    "response": "Alfa-Bank serves institutional clients with structured debt solutions, complex derivatives, and other structured finance instruments."
+  },
+  {
+    "query": "what is a one-time password in alfa-check light?",
+    "response": "A One-Time Password is included in the SMS and Push notifications from Alfa-Check Light to authorize transactions."
+  },
+  {
+    "query": "Structured products use equity baskets?",
+    "response": "Yes, baskets of equities are part of the underlying assets for structured products."
+  },
+  {
+    "query": "Does Mir Pay work outside Russia?",
+    "response": "Yes, in Armenia, Kyrgyzstan, and Kazakhstan, where Mir cards are accepted in local banks."
+  },
+  {
+    "query": "When will interest payments resume?",
+    "response": "Alfa-Bank has not yet received the necessary licences and remains unable to make payments. The timeline for license issuance is unclear."
+  },
+  {
+    "query": "what is the minimum leasing limit required?",
+    "response": "The minimum leasing limit is 100 million RUB."
+  },
+  {
+    "query": "How to order in the app",
+    "response": "To order a debit card via the mobile app or Alfa-Online, go to \"All my products\" → \"New account or product.\" Follow the prompts to complete your order."
+  },
+  {
+    "query": "Cost to replace card",
+    "response": "The cost to replace your card is 290 ₽. If you have the Premium tariff, reissuing is free."
+  },
+  {
+    "query": "closing card no fee",
+    "response": "If there was a service fee associated with your card, it will no longer be charged once you close the card."
+  },
+  {
+    "query": "prepayment financing options",
+    "response": "We offer prepayment and export finance as part of our investment structured finance products."
+  },
+  {
+    "query": "Alfa Bank Fixed Income",
+    "response": "Alfa Bank’s Fixed Income Division supports investment services on domestic and global markets for banks, corporates, asset management companies, hedge funds, insurance companies, and private investors."
+  },
+  {
+    "query": "margin trading forex commodities",
+    "response": "Margin trading includes forex, commodities, and other assets."
+  },
+  {
+    "query": "Can’t access referral program page",
+    "response": "Update the Alfa-Bank app to the latest version to resolve access issues to the referral program features."
+  },
+  {
+    "query": "how do indexed deposits help with market risks?",
+    "response": "Indexed deposits allow you to invest in stock, commodity, or currency markets in a break-even format, helping to hedge against market risks."
+  },
+  {
+    "query": "Partner ATMs no fees",
+    "response": "Cash withdrawals at partner banks—including B&N BANK, Gazprombank, Promsvyazbank, Credit Bank of Moscow, Rosbank, and Ural Bank—are free for Alfa-Bank cardholders."
+  },
+  {
+    "query": "Maximum Ultra Free client",
+    "response": "As a Maximum Ultra Free package holder, you’re exempt from quasi-cash commission fees."
+  },
+  {
+    "query": "What legal basis do you have for processing my data?",
+    "response": "We process your data only with your consent unless otherwise required by law. We adhere to confidentiality and legal obligations in handling your data."
+  },
+  {
+    "query": "I can’t find my cashback. Where is it?",
+    "response": "Check the **Your Total Cashback** section in the Alfa-Bank app or Alfa-Online to view your earnings."
+  },
+  {
+    "query": "How can I get a certificate for my debit card?",
+    "response": "You can obtain a certificate via the mobile app or Alfa-Online: go to the Card account section and select \"Certificates and statements.\" A PDF certificate with a signature and blue seal will be sent to your email and stored in the app or online banking."
+  },
+  {
+    "query": "how to ensure payment speed in remote areas?",
+    "response": "Alfa-Bank’s widespread correspondent network supports real-time cross-regional payments regardless of location."
+  },
+  {
+    "query": "Can't withdraw USD from foreign ATMs",
+    "response": "You cannot withdraw US dollars directly from third-party ATMs abroad, but you can withdraw the local currency and exchange it at a currency exchange office."
+  },
+  {
+    "query": "Feedback on privacy policy form",
+    "response": "Access the feedback form on the bank’s website and specify \"Privacy Policy\" as the subject for your submission."
+  },
+  {
+    "query": "Can I borrow money using a debit card?",
+    "response": "No, a debit card does not allow borrowing money. It only enables spending the funds you already have. A credit card, not a debit card, is used for borrowing."
+  },
+  {
+    "query": "Can I receive my salary via a debit card?",
+    "response": "Yes, your Alfa-Bank debit card can be used to receive salary, pensions, or government benefits."
+  },
+  {
+    "query": "margin trading available for forex?",
+    "response": "Margin trading is available for a wide range of underlying assets, including forex."
+  },
+  {
+    "query": "Are fixed-income solutions tailored to individual client needs?",
+    "response": "Yes, we focus on Customer demands."
+  },
+  {
+    "query": "can i finance a bond at launch?",
+    "response": "Yes, we finance clients at initial bond placements."
+  },
+  {
+    "query": "Why add Alfa-Online to home screen?",
+    "response": "Adding Alfa-Online to your home screen makes it easier to access by simulating an app without downloading it to your device."
+  },
+  {
+    "query": "What happened to Alfa-Bank’s credit standing?",
+    "response": "On September 23, 2024, ACRA reaffirmed Alfa-Bank’s rating at AA+(RU) and revised the outlook to Positive, showing confidence in its stability."
+  }
+]
